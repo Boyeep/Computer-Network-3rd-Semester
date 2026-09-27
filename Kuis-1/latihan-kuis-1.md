@@ -6,7 +6,7 @@ Dokumen ini disusun dari 30 foto soal di folder `Practice-Images`. Kerjakan pert
 
 ## 1. Header pada transport layer
 
-![Soal tentang header transport layer](Practice-Images/01-transport-layer-header.jpeg)
+<img src="Practice-Images/01-transport-layer-header.jpeg" alt="Soal tentang header transport layer" width="720">
 
 Mengapa transport layer menambahkan header sebelum meneruskan data ke network layer?
 
@@ -19,7 +19,7 @@ Mengapa transport layer menambahkan header sebelum meneruskan data ke network la
 
 ## 2. Instantaneous throughput dan average throughput
 
-![Soal instantaneous dan average throughput](Practice-Images/02-instantaneous-vs-average-throughput.jpeg)
+<img src="Practice-Images/02-instantaneous-vs-average-throughput.jpeg" alt="Soal instantaneous dan average throughput" width="720">
 
 Apa yang membedakan *instantaneous throughput* dari *average throughput*?
 
@@ -32,7 +32,7 @@ Apa yang membedakan *instantaneous throughput* dari *average throughput*?
 
 ## 3. Kebutuhan layanan Internet telephony
 
-![Soal kebutuhan layanan Internet telephony](Practice-Images/03-internet-telephony-service-requirements.jpeg)
+<img src="Practice-Images/03-internet-telephony-service-requirements.jpeg" alt="Soal kebutuhan layanan Internet telephony" width="720">
 
 Layanan apa yang paling sesuai untuk aplikasi telepon Internet yang membutuhkan delay rendah tetapi masih dapat mentoleransi sebagian *loss*?
 
@@ -45,7 +45,7 @@ Layanan apa yang paling sesuai untuk aplikasi telepon Internet yang membutuhkan 
 
 ## 4. Urutan PDU saat enkapsulasi
 
-![Soal urutan PDU ketika data turun melalui protocol stack](Practice-Images/04-urutan-pdu-enkapsulasi.jpeg)
+<img src="Practice-Images/04-urutan-pdu-enkapsulasi.jpeg" alt="Soal urutan PDU ketika data turun melalui protocol stack" width="720">
 
 Apa urutan nama unit data ketika informasi bergerak turun dari application layer ke link layer?
 
@@ -58,7 +58,7 @@ Apa urutan nama unit data ketika informasi bergerak turun dari application layer
 
 ## 5. Layer pada host, router, dan switch
 
-![Soal implementasi layer pada host router dan switch](Practice-Images/05-layer-host-router-switch.jpeg)
+<img src="Practice-Images/05-layer-host-router-switch.jpeg" alt="Soal implementasi layer pada host router dan switch" width="720">
 
 Mengapa host mengimplementasikan kelima layer, sedangkan router dan link-layer switch mengimplementasikan lebih sedikit layer?
 
@@ -71,7 +71,7 @@ Mengapa host mengimplementasikan kelima layer, sedangkan router dan link-layer s
 
 ## 6. Distribusi file berbasis chunk
 
-![Soal P2P pada distribusi chunk file](Practice-Images/06-p2p-distribusi-chunk.jpeg)
+<img src="Practice-Images/06-p2p-distribusi-chunk.jpeg" alt="Soal P2P pada distribusi chunk file" width="720">
 
 Host A mengunduh chunk dari server dan host lain, lalu mengunggah chunk yang telah dimiliki kepada host lain. Arsitektur apa yang paling tepat?
 
@@ -84,7 +84,7 @@ Host A mengunduh chunk dari server dan host lain, lalu mengunggah chunk yang tel
 
 ## 7. P2P file sharing
 
-![Soal arsitektur P2P file sharing](Practice-Images/07-arsitektur-p2p-file-sharing.jpeg)
+<img src="Practice-Images/07-arsitektur-p2p-file-sharing.jpeg" alt="Soal arsitektur P2P file sharing" width="720">
 
 Aplikasi mengunduh chunk dari suatu peer dan mengunggah chunk kepada peer lain. Arsitektur apa yang digambarkan?
 
@@ -97,7 +97,7 @@ Aplikasi mengunduh chunk dari suatu peer dan mengunggah chunk kepada peer lain. 
 
 ## 8. Apa yang ditentukan oleh protokol?
 
-![Soal protokol dan urutan pertukaran message](Practice-Images/08-definisi-protokol-urutan-message.jpeg)
+<img src="Practice-Images/08-definisi-protokol-urutan-message.jpeg" alt="Soal protokol dan urutan pertukaran message" width="720">
 
 Browser mengirim *connection request*, menunggu respons, lalu mengirim permintaan Web. Sifat protokol apa yang ditunjukkan?
 
@@ -110,7 +110,7 @@ Browser mengirim *connection request*, menunggu respons, lalu mengirim permintaa
 
 ## 9. Kompatibilitas protokol
 
-![Soal alasan protokol harus kompatibel](Practice-Images/09-kompatibilitas-protokol.jpeg)
+<img src="Practice-Images/09-kompatibilitas-protokol.jpeg" alt="Soal alasan protokol harus kompatibel" width="720">
 
 Mengapa dua entitas yang berkomunikasi harus menerapkan protokol yang kompatibel?
 
@@ -123,7 +123,7 @@ Mengapa dua entitas yang berkomunikasi harus menerapkan protokol yang kompatibel
 
 ## 10. Perbedaan nama PDU antarlayer
 
-![Soal penamaan PDU pada tiap layer](Practice-Images/10-penamaan-pdu-tiap-layer.jpeg)
+<img src="Practice-Images/10-penamaan-pdu-tiap-layer.jpeg" alt="Soal penamaan PDU pada tiap layer" width="720">
 
 Mengapa data yang sama disebut *message*, *segment*, *datagram*, dan *frame* pada titik yang berbeda di protocol stack?
 
@@ -136,7 +136,7 @@ Mengapa data yang sama disebut *message*, *segment*, *datagram*, dan *frame* pad
 
 ## 11. Queueing delay
 
-![Soal queueing delay pada output link](Practice-Images/11-queueing-delay-output-link.jpeg)
+<img src="Practice-Images/11-queueing-delay-output-link.jpeg" alt="Soal queueing delay pada output link" width="720">
 
 Mengapa sebuah paket dapat mengalami *queueing delay* pada suatu output link?
 
@@ -149,7 +149,7 @@ Mengapa sebuah paket dapat mengalami *queueing delay* pada suatu output link?
 
 ## 12. Keuntungan circuit switching
 
-![Soal keuntungan circuit switching](Practice-Images/12-keuntungan-circuit-switching.jpeg)
+<img src="Practice-Images/12-keuntungan-circuit-switching.jpeg" alt="Soal keuntungan circuit switching" width="720">
 
 Apa keuntungan utama *circuit switching* dibandingkan *packet switching*?
 
@@ -162,7 +162,7 @@ Apa keuntungan utama *circuit switching* dibandingkan *packet switching*?
 
 ## 13. Peran Web pada 1990-an
 
-![Soal peran Web bagi pertumbuhan Internet](Practice-Images/13-peran-web-1990-an.jpeg)
+<img src="Practice-Images/13-peran-web-1990-an.jpeg" alt="Soal peran Web bagi pertumbuhan Internet" width="720">
 
 Mengapa Web penting bagi pertumbuhan Internet pada 1990-an?
 
@@ -175,7 +175,7 @@ Mengapa Web penting bagi pertumbuhan Internet pada 1990-an?
 
 ## 14. Transmission delay dan propagation delay
 
-![Soal perbedaan transmission dan propagation delay](Practice-Images/14-transmission-vs-propagation-delay.jpeg)
+<img src="Practice-Images/14-transmission-vs-propagation-delay.jpeg" alt="Soal perbedaan transmission dan propagation delay" width="720">
 
 Apa perbedaan utama *transmission delay* dan *propagation delay*?
 
@@ -188,7 +188,7 @@ Apa perbedaan utama *transmission delay* dan *propagation delay*?
 
 ## 15. Propagasi radio
 
-![Soal faktor yang memengaruhi propagasi radio](Practice-Images/15-faktor-propagasi-radio.jpeg)
+<img src="Practice-Images/15-faktor-propagasi-radio.jpeg" alt="Soal faktor yang memengaruhi propagasi radio" width="720">
 
 Sifat apa yang paling langsung memengaruhi propagasi radio?
 
@@ -201,7 +201,7 @@ Sifat apa yang paling langsung memengaruhi propagasi radio?
 
 ## 16. Cable Internet sebagai shared access network
 
-![Soal cable Internet sebagai shared access network](Practice-Images/16-cable-network-shared-access.jpeg)
+<img src="Practice-Images/16-cable-network-shared-access.jpeg" alt="Soal cable Internet sebagai shared access network" width="720">
 
 Mengapa Internet kabel disebut sebagai *shared access network*?
 
@@ -214,7 +214,7 @@ Mengapa Internet kabel disebut sebagai *shared access network*?
 
 ## 17. FTP control bersifat out-of-band (varian A)
 
-![Soal FTP out-of-band varian A](Practice-Images/17-ftp-control-out-of-band-varian-a.jpeg)
+<img src="Practice-Images/17-ftp-control-out-of-band-varian-a.jpeg" alt="Soal FTP out-of-band varian A" width="720">
 
 Mengapa kontrol FTP disebut *out-of-band*?
 
@@ -227,7 +227,7 @@ Mengapa kontrol FTP disebut *out-of-band*?
 
 ## 18. FTP control bersifat out-of-band (varian B)
 
-![Soal FTP out-of-band varian B](Practice-Images/18-ftp-control-out-of-band-varian-b.jpeg)
+<img src="Practice-Images/18-ftp-control-out-of-band-varian-b.jpeg" alt="Soal FTP out-of-band varian B" width="720">
 
 Soal ini sama dengan nomor 17, tetapi urutan pilihannya berbeda.
 
@@ -240,7 +240,7 @@ Soal ini sama dengan nomor 17, tetapi urutan pilihannya berbeda.
 
 ## 19. Definisi throughput
 
-![Soal definisi throughput](Practice-Images/19-definisi-throughput.jpeg)
+<img src="Practice-Images/19-definisi-throughput.jpeg" alt="Soal definisi throughput" width="720">
 
 Apa yang dimaksud dengan *throughput*?
 
@@ -253,7 +253,7 @@ Apa yang dimaksud dengan *throughput*?
 
 ## 20. FTP LIST dan data connection (varian A)
 
-![Soal FTP LIST varian A](Practice-Images/20-ftp-list-data-connection-varian-a.jpeg)
+<img src="Practice-Images/20-ftp-list-data-connection-varian-a.jpeg" alt="Soal FTP LIST varian A" width="720">
 
 Setelah menerima perintah FTP `LIST` pada control connection, melalui koneksi mana server mengirim directory listing?
 
@@ -266,7 +266,7 @@ Setelah menerima perintah FTP `LIST` pada control connection, melalui koneksi ma
 
 ## 21. Enkapsulasi segment menjadi datagram
 
-![Soal enkapsulasi segment pada network layer](Practice-Images/21-enkapsulasi-segment-ke-datagram.jpeg)
+<img src="Practice-Images/21-enkapsulasi-segment-ke-datagram.jpeg" alt="Soal enkapsulasi segment pada network layer" width="720">
 
 Apa yang umumnya terjadi ketika transport-layer segment diberikan kepada network layer?
 
@@ -279,7 +279,7 @@ Apa yang umumnya terjadi ketika transport-layer segment diberikan kepada network
 
 ## 22. Beberapa nilai delay pada traceroute
 
-![Soal arti beberapa nilai delay pada traceroute](Practice-Images/22-traceroute-beberapa-delay-satu-hop.jpeg)
+<img src="Practice-Images/22-traceroute-beberapa-delay-satu-hop.jpeg" alt="Soal arti beberapa nilai delay pada traceroute" width="720">
 
 Apa arti beberapa nilai delay yang ditampilkan untuk satu hop pada `traceroute`?
 
@@ -292,7 +292,7 @@ Apa arti beberapa nilai delay yang ditampilkan untuk satu hop pada `traceroute`?
 
 ## 23. Virus dan worm
 
-![Soal perbedaan virus dan worm](Practice-Images/23-perbedaan-virus-dan-worm.jpeg)
+<img src="Practice-Images/23-perbedaan-virus-dan-worm.jpeg" alt="Soal perbedaan virus dan worm" width="720">
 
 Apa perbedaan utama antara virus dan worm?
 
@@ -305,7 +305,7 @@ Apa perbedaan utama antara virus dan worm?
 
 ## 24. FTP LIST dan data connection (varian B)
 
-![Soal FTP LIST varian B](Practice-Images/24-ftp-list-data-connection-varian-b.jpeg)
+<img src="Practice-Images/24-ftp-list-data-connection-varian-b.jpeg" alt="Soal FTP LIST varian B" width="720">
 
 Soal ini sama dengan nomor 20, tetapi urutan pilihannya berbeda.
 
@@ -318,7 +318,7 @@ Soal ini sama dengan nomor 20, tetapi urutan pilihannya berbeda.
 
 ## 25. Elastic application (varian A)
 
-![Soal elastic application varian A](Practice-Images/25-elastic-application-throughput-varian-a.jpeg)
+<img src="Practice-Images/25-elastic-application-throughput-varian-a.jpeg" alt="Soal elastic application varian A" width="720">
 
 Mengapa *elastic application* dapat mentoleransi throughput yang berubah-ubah?
 
@@ -331,7 +331,7 @@ Mengapa *elastic application* dapat mentoleransi throughput yang berubah-ubah?
 
 ## 26. Switch dan application-layer message
 
-![Soal switch memproses link layer](Practice-Images/26-switch-memproses-link-layer.jpeg)
+<img src="Practice-Images/26-switch-memproses-link-layer.jpeg" alt="Soal switch memproses link layer" width="720">
 
 Mengapa link-layer switch dapat meneruskan frame tanpa memahami application-layer message di dalamnya?
 
@@ -344,7 +344,7 @@ Mengapa link-layer switch dapat meneruskan frame tanpa memahami application-laye
 
 ## 27. Elastic application (varian B)
 
-![Soal elastic application varian B](Practice-Images/27-elastic-application-throughput-varian-b.jpeg)
+<img src="Practice-Images/27-elastic-application-throughput-varian-b.jpeg" alt="Soal elastic application varian B" width="720">
 
 Soal ini sama dengan nomor 25, tetapi urutan pilihannya berbeda.
 
@@ -357,7 +357,7 @@ Soal ini sama dengan nomor 25, tetapi urutan pilihannya berbeda.
 
 ## 28. Interkoneksi antar-ISP
 
-![Soal alasan ISP saling terhubung](Practice-Images/28-interkoneksi-antar-isp.jpeg)
+<img src="Practice-Images/28-interkoneksi-antar-isp.jpeg" alt="Soal alasan ISP saling terhubung" width="720">
 
 Mengapa ISP yang dikelola secara independen harus saling terhubung?
 
@@ -370,7 +370,7 @@ Mengapa ISP yang dikelola secara independen harus saling terhubung?
 
 ## 29. Data center untuk client-server skala besar
 
-![Soal data center pada layanan client-server](Practice-Images/29-data-center-client-server.jpeg)
+<img src="Practice-Images/29-data-center-client-server.jpeg" alt="Soal data center pada layanan client-server" width="720">
 
 Mengapa layanan client-server berskala besar lazim menggunakan data center besar?
 
@@ -383,7 +383,7 @@ Mengapa layanan client-server berskala besar lazim menggunakan data center besar
 
 ## 30. Layer yang diproses router
 
-![Soal layer yang diproses router ketika forwarding](Practice-Images/30-layer-yang-diproses-router.jpeg)
+<img src="Practice-Images/30-layer-yang-diproses-router.jpeg" alt="Soal layer yang diproses router ketika forwarding" width="720">
 
 Router menerima frame dari satu link dan meneruskan informasinya ke link lain. Interpretasi mana yang sesuai dengan model berlapis?
 
